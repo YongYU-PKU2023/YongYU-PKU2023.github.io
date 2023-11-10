@@ -45,8 +45,13 @@ Awards：
 + First Prize of Sichuan Province in the National College Student Mathematical Modeling Competition         --2022/10
   
 + National Third Prize and First Prize in Western Region of the National College Student Embedded Chip and System Design Competition         --2022/08
-  
 
+
+
+Lab Website：
+======
+------
+[PCNI]:http://pcni.pku.edu.cn/ 
 Contact Me:
 ======
 ------
