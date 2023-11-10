@@ -13,11 +13,6 @@ Self-introduction
 ---
 I am a senior undergraduate student who will graduate from the University of Electronic Science and Technology in June 2024. My major is Information and Communication Engineering, with a specific focus on Network Engineering. I have now been recommended to pursue a doctoral degree at Peking University, with a specific research focus on random network optimization, focusing on the allocation of communication aware computing storage resources in networked intelligence.
 
-自我介绍：
-======
----
-我是一名大四本科生，即将于2024年6月从电子科技大学毕业，专业为信息与通信工程，具体方向为网络工程。我现在已经保送到北京大学攻读博士学位，具体的研究方向为随即网络优化，侧重于网联智能的通信感知计算存储资源的分配。
-
 
 Education:
 ======
@@ -28,7 +23,16 @@ Education:
   
 + __Bachelor of Network Engineering__  (2020/09-2024/06)
   
-  University of Electronic Science and Technology of China, Chengdu 
+  University of Electronic Science and Technology of China, Chengdu
+
+Research:
+======
+My research interests include:
+
+  - Integrated sensing and communication
+MmWave and THz communications
+Waveform and modulation design
+Stochastic geometry analysis in wireless networks
   
 Awards：
 ======
