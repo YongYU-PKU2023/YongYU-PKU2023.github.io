@@ -9,51 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Resume
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Ph.D. in Network Engineering**\
+  Peking University, Beijing, China\
+  *Expected graduation: June 2029*\
+  Research focus: Network resource optimization and allocation\
+  Advisor: Assistant Professor Zhang Jianan
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Bachelor of Engineering in Network Engineering**\
+  University of Electronic Science and Technology of China (UESTC), Chengdu, China\
+  *Graduation: June 2024*\
+  School: School of Information and Communication Engineering\
+  GPA: 93.48 (Rank: 3rd)
+
+## Awards and Achievements
+
+- National Scholarship recipient
+- Three-time recipient of First-Class Scholarship
+- First Prize in the National College Student Mathematical Modeling Competition
+- Third Prize in the National College Student Embedded Chip and Design Competition (Western Region First Prize)
+
+## Skills
+
+- Proficient in C, Python, MATLAB
+- Familiar with Java, JMP, LINGO
+
+## Project Experience
+
+- **Simulation Dataset for Connected and Autonomous Vehicles with Hybrid Communication and Multimodal Perception**\
+  *Published Paper*: [arXiv:2306.14125](http://arxiv.org/abs/2306.14125)\
+  Description: Participated in building the world's first simulation dataset for connected and autonomous vehicles with hybrid communication and multimodal perception.
+
+Feel free to contact me for further information or collaboration opportunities!
