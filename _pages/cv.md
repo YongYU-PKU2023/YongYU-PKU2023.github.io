@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+# Resume
+
 ## Education
 
 - **Ph.D. in Network Engineering**\
@@ -43,7 +45,7 @@ redirect_from:
   - Developed and curated a comprehensive simulation dataset for connected and autonomous vehicles with hybrid communication and multimodal perception.
   - Collaborated with a multidisciplinary team to collect and synthesize data from various sensors, including cameras, LiDAR, and V2X communication devices.
   - Designed realistic traffic scenarios and generated ground truth annotations for training and evaluation of perception and communication algorithms.
-  - The dataset and associated research findings were published in the following paper: [Your Dataset Paper Title](https://example.com/dataset-paper)
+  - The dataset and associated research findings were published in the following paper: [Your Dataset Paper Title](https://arxiv.org/abs/2306.14125)
 
 - **Automatic Tracking Camera System for Targeted Individuals based on Raspberry Pi Development Board**\
   *Duration: December 2021 - October 2022*\
@@ -63,9 +65,9 @@ redirect_from:
 ## Publications
 
 - **Your Dataset Paper Title**\
-  Conference/Journal: [Conference/Journal Name](https://example.com/conference-journal)\
+  Conference/Journal: [Conference/Journal Name](https://arxiv.org/abs/2306.14125)\
   Authors: Your Name, Co-author Name\
   Published: Month Year\
-  Link: [Paper Link](https://example.com/dataset-paper)
+  Link: [Paper Link](https://arxiv.org/abs/2306.14125)
 
 Feel free to contact me for further information or collaboration opportunities!
