@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yong Yu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -84,8 +84,8 @@ author:
   avatar           : "myimage.png"
   bio              : "Ph.D. candidate in PCNI Lab of Peking University "
   location         : "Cheng DU"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "#https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "#http://yourfullgooglescholarurl.com"
   email            : yuyong_uestc@163.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
