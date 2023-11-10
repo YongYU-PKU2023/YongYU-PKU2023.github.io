@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 # Resume
 
 ## Education
@@ -40,10 +41,13 @@ redirect_from:
 ## Project Experience
 
 - **Simulation Dataset for Connected and Autonomous Vehicles with Hybrid Communication and Multimodal Perception**\
-  *Duration: [Duration of the project]*\
+  *Duration: September 2022 - Present*\
   Description:
-  - Participated in building the world's first simulation dataset for connected and autonomous vehicles with hybrid communication and multimodal perception.
-  
+  - Developed and curated a comprehensive simulation dataset for connected and autonomous vehicles with hybrid communication and multimodal perception.
+  - Collaborated with a multidisciplinary team to collect and synthesize data from various sensors, including cameras, LiDAR, and V2X communication devices.
+  - Designed realistic traffic scenarios and generated ground truth annotations for training and evaluation of perception and communication algorithms.
+  - The dataset and associated research findings were published in the following paper: [Your Dataset Paper Title](https://example.com/dataset-paper)
+
 - **Automatic Tracking Camera System for Targeted Individuals based on Raspberry Pi Development Board**\
   *Duration: December 2021 - October 2022*\
   Description:
