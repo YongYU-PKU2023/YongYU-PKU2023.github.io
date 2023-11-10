@@ -24,20 +24,25 @@ Education:
 ---
 + __Ph.D in Networking Engineering__   (2024/09-2029/06(expected))
   
-  ++ Peking University , Beijing
+  Peking University , Beijing
   
 + __Bachelor of Network Engineering__  (2020/09-2024/06)
   
-  ++ University of Electronic Science and Technology of China, Chengdu 
+  University of Electronic Science and Technology of China, Chengdu 
   
 Awards：
 ======
 ---
-+ National Scholarship        --2021/12 \ 
-+ Outstanding Undergraduate Graduates from Sichuan Province          --2024/06 \ 
-+ Honours Bachelor Degrees of UESTC         --2024/06  \
-+ First Prize of Sichuan Province in the National College Student Mathematical Modeling Competition         --2022/10 \ 
-+ National Third Prize and First Prize in Western Region of the National College Student Embedded Chip and System Design Competition         --2022/08\  
++ National Scholarship        --2021/12
+
++ Outstanding Undergraduate Graduates from Sichuan Province          --2024/06
+
++ Honours Bachelor Degrees of UESTC         --2024/06
+  
++ First Prize of Sichuan Province in the National College Student Mathematical Modeling Competition         --2022/10
+  
++ National Third Prize and First Prize in Western Region of the National College Student Embedded Chip and System Design Competition         --2022/08
+  
 
 Contact Me:
 ======
