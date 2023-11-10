@@ -22,7 +22,7 @@ I am a senior undergraduate student who will graduate from the University of Ele
 Education:
 ======
 ---
-+ Ph.D in Networking Engineering   (2024/09-2029/06(expected))\\  
++ _Ph.D in Networking Engineering_   (2024/09-2029/06(expected))\\  
   ++ Peking University , Beijing \\ 
 + Bachelor of Network Engineering  (2020/09-2024/06) \\ 
   ++ University of Electronic Science and Technology of China, Chengdu \\ 
