@@ -8,10 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Self-introduction
-======
-------
-I am a senior undergraduate student who will graduate from the University of Electronic Science and Technology in June 2024. My major is Information and Communication Engineering, with a specific focus on Network Engineering. I have now been recommended to pursue a doctoral degree at Peking University, with a specific research focus on random network optimization, focusing on the allocation of communication aware computing storage resources in networked intelligence.
+## Personal Introduction
+
+- Current Status: Final-year undergraduate student
+- University: University of Electronic Science and Technology of China (UESTC)
+- School: School of Information and Communication Engineering
+- Major: Network Engineering
+
+### Future Plans
+
+- I have been admitted to Peking University for a Ph.D. program, starting in July 2023.
+- Research Focus: Network resource optimization and allocation, particularly in the context of communication-aware computing and storage resources.
+- Application Areas: Autonomous driving and future 6G networks, aiming to provide enhanced services.
+- If you are interested in my research area, please feel free to contact me at yuyong_uestc@163.com.
 
 
 Education:
