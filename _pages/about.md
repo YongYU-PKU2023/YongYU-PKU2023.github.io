@@ -10,13 +10,13 @@ redirect_from:
 
 Self-introduction
 ======
----
+------
 I am a senior undergraduate student who will graduate from the University of Electronic Science and Technology in June 2024. My major is Information and Communication Engineering, with a specific focus on Network Engineering. I have now been recommended to pursue a doctoral degree at Peking University, with a specific research focus on random network optimization, focusing on the allocation of communication aware computing storage resources in networked intelligence.
 
 
 Education:
 ======
----
+------
 + __Ph.D in Networking Engineering__   (2024/09-2029/06(expected))
   
   Peking University , Beijing
@@ -27,6 +27,7 @@ Education:
 
 Research:
 ======
+------
 My research interests include:
 
   - Integrated sensing, communication and computation networks
@@ -34,7 +35,7 @@ My research interests include:
      
 Awards：
 ======
----
+------
 + National Scholarship        --2021/12
 
 + Outstanding Undergraduate Graduates from Sichuan Province          --2024/06
@@ -48,5 +49,5 @@ Awards：
 
 Contact Me:
 ======
----
+------
 Email: yuyong_uestc@163.com
