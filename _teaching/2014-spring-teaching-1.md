@@ -9,6 +9,5 @@ location: "Chengdu, China"
 <img src="/images/IMG_20231027_113253.jpg">
 
 
-![Picture](https://github.com/YongYU-PKU2023/YongYU-PKU2023.github.io/blob/master/images/IMG_20231027_113253.jpg)
 
 
