@@ -57,10 +57,18 @@ redirect_from:
   - Utilized a PID algorithm for flexible real-time tracking of moving targets, enabling instant capturing of images.
 
 - **Conference System based on Hisilicon AI Computer Vision Development Kit**\
-  *Duration: [Duration of the project]*\
+  *Duration: May 2022 - July 2022*\
   Description:
   - Designed an algorithm for face recognition and trained the model using open-source datasets. Converted the model using pytorch-caffe and deployed the quantized model file to the board.
-  - Utilized the Hisilicon NNIE (Neural Network Inference Engine) API interface for inference module, enabling the calling of model files and real-time video inference from the camera.
-  - Established communication between the vision board and WiFi-loT board using a serial communication protocol. The WiFi-loT board processed the received target coordinate positions from the vision board and utilized PID control algorithm to achieve real-time tracking of faces.
+  - Utilized the Hisilicon NNIE (Neural Network Inference Engine) API interface for the inference module, enabling the calling of model files and real-time video inference from the camera.
+  - Established communication between the vision board and WiFi-loT board using a serial communication protocol. The WiFi-loT board processed the received target coordinate positions from the vision board and utilized a PID control algorithm to achieve real-time tracking of faces.
+
+## Publications
+
+- **Your Dataset Paper Title**\
+  Conference/Journal: [Conference/Journal Name](https://example.com/conference-journal)\
+  Authors: Your Name, Co-author Name\
+  Published: Month Year\
+  Link: [Paper Link](https://example.com/dataset-paper)
 
 Feel free to contact me for further information or collaboration opportunities!
