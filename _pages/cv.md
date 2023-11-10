@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Resume
 
 ## Education
 
@@ -23,7 +22,22 @@ redirect_from:
   University of Electronic Science and Technology of China (UESTC), Chengdu, China\
   *September 2020 - June 2024*\
   School: School of Information and Communication Engineering\
-  GPA: 93.48 (Rank: 3rd)
+  GPA: 3.98/4.00 (Rank: 3rd)\
+  Overall Score: 93.48
+
+## Courses
+
+- Artificial Intelligence (Challenging Course)
+- Signals and Systems
+- Principles of Communication (In Progress)
+- Random Signal Analysis
+- Microprocessors and Embedded Systems
+- Computer Communication Networks (Challenging Course)
+- Network Protocols and Analysis (Challenging Course)
+- Fundamentals of Network Algorithms (Challenging Course)
+- Digital Circuits
+- Analog Circuits
+- Intelligent Embedded System Design
 
 ## Awards and Achievements
 
