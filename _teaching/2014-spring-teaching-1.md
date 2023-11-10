@@ -7,11 +7,4 @@ date: 2023-10-27
 location: "Chengdu, China"
 ---
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Picture]:
