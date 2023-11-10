@@ -83,9 +83,9 @@ author:
   name             : "Yong Yu"
   avatar           : "myimage.png"
   bio              : "Ph.D. candidate in PCNI Lab of Peking University "
-  location         : "Cheng DU"
-  pubmed           : "#https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "#http://yourfullgooglescholarurl.com"
+  location         : "UESTC,Cheng DU"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : yuyong_uestc@163.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -105,7 +105,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  bilibili         : https://www.bilibili.com/
   tumblr           :
   vine             :
   weibo            :
