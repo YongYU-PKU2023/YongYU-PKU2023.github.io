@@ -51,7 +51,8 @@ Awards：
 Lab Website：
 ======
 ------
-[PCNI]:http://pcni.pku.edu.cn/ 
+<http://pcni.pku.edu.cn>
+
 Contact Me:
 ======
 ------
